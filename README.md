@@ -27,9 +27,9 @@ Install the below:
 > 
 > https://nextcloud.com/
 
-> ****
+> **Pi-Hole**
 > 
->
+> https://pi-hole.net/
 
 > ****
 > 
