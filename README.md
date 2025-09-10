@@ -43,9 +43,9 @@ Install the below:
 > 
 > https://jellyfin.org/
 
-> ****
-> 
-
+> **code-server**
+>
+> https://github.com/coder/code-server
 
 > ****
 > 
