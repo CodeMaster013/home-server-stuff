@@ -1,4 +1,4 @@
-# home-server-stuff
+# Home Server Stuff
 Install the below:
 
 > **Proxmox**
