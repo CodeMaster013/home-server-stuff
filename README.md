@@ -26,18 +26,22 @@ Install the below:
 > **NextCloud**
 > 
 > https://nextcloud.com/
+>
+> Includes NextCloud Files, Talk, Groupware, Office, and Assistant.
 
 > **Pi-Hole**
 > 
 > https://pi-hole.net/
 
-> ****
+> **Docker**
 > 
-> 
+> https://www.docker.com/
+>
+> Everything installed here should be in a docker container
 
-> ****
+> **Jellyfin**
 > 
-> 
+> https://jellyfin.org/
 
 > ****
 > 
