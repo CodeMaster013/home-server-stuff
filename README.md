@@ -1,5 +1,8 @@
 # home-server-stuff
 
+> **Proxmox**
+> https://www.proxmox.com/en/
+
 > **Bitwarden**
 > https://bitwarden.com/
 
